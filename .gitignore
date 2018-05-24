@@ -1,0 +1,6 @@
+/data
+/record
+*.o
+moc_*
+#ui_*
+*~
